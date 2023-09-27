@@ -1,6 +1,6 @@
 ## Table of Contents
 - [About the Author](#)
-- [Installation](#Hadoop environment & jupiter python code)
+- [Installation](#)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
