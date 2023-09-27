@@ -15,7 +15,7 @@ This project features a neural network model designed to assist restaurants in i
 - [Contributing](#contributing)
 - [License](#[Kaggle Dataset][url:https://www.kaggle.com/datasets/hassaandaoud/part-00000-resturant-reviews]
 - [Credits](#CCT)
-- [Screenshots](#presentation research)
+- [Screenshots](#see video-presentation research)
 - [Getting Help](#getting-help)
 - [Changelog](#changelog)
 - [About the Author](#)
