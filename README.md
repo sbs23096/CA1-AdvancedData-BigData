@@ -4,9 +4,9 @@
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#Kaggle Dataset)[url:https://www.kaggle.com/datasets/hassaandaoud/part-00000-resturant-reviews]
+- [License](#KaggleDataset)[url:https://www.kaggle.com/datasets/hassaandaoud/part-00000-resturant-reviews]
 - [Credits](#CCT)
-- [Screenshots](#see video-presentation research)
+- [Screenshots](#)
 - [Getting Help](#getting-help)
 - [Changelog](#changelog)
 - [Acknowledgments](#)
