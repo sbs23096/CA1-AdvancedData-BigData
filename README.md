@@ -9,6 +9,7 @@ Neural Network Research in Advanced Data Analytics & Big Data Storage and Proces
 # A short description of your project.
 This project features a neural network model designed to assist restaurants in improving their business by analyzing customer reviews and feedback. 
 ## Table of Contents
+- [About the Author](#)
 - [Installation](#Hadoop environment & jupiter python code)
 - [Usage](#usage)
 - [Features](#features)
@@ -18,7 +19,6 @@ This project features a neural network model designed to assist restaurants in i
 - [Screenshots](#see video-presentation research)
 - [Getting Help](#getting-help)
 - [Changelog](#changelog)
-- [About the Author](#)
 - [Acknowledgments](#)
 
 ## Installation
