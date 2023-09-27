@@ -1,13 +1,3 @@
-## About the Author
-3x Kaggle Expert | Data Science Credentials Generative AI | Years of experience with German market by Google Cloud Architecture | | Machine Learning | AI Researchers|
-
-# CA1-AdvancedData-BigData
-this is readMe of CA1-AdvancedData-BigData
-# Project Title
-Neural Network Research in Advanced Data Analytics & Big Data Storage and Processing 
-
-# A short description of your project.
-This project features a neural network model designed to assist restaurants in improving their business by analyzing customer reviews and feedback. 
 ## Table of Contents
 - [About the Author](#)
 - [Installation](#Hadoop environment & jupiter python code)
@@ -20,6 +10,17 @@ This project features a neural network model designed to assist restaurants in i
 - [Getting Help](#getting-help)
 - [Changelog](#changelog)
 - [Acknowledgments](#)
+  
+## About the Author
+3x Kaggle Expert | Data Science Credentials Generative AI | Years of experience with German market by Google Cloud Architecture | | Machine Learning | AI Researchers|
+
+# CA1-AdvancedData-BigData
+this is readMe of CA1-AdvancedData-BigData
+# Project Title
+Neural Network Research in Advanced Data Analytics & Big Data Storage and Processing 
+
+# A short description of your project.
+This project features a neural network model designed to assist restaurants in improving their business by analyzing customer reviews and feedback. 
 
 ## Installation
 
